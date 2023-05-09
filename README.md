@@ -1,0 +1,18 @@
+# Book_Store
+Spring Boot simple project | Book Store Management
+
+Spring Boot | MySQL | Thymeleaf | JPA
+
+IntelliJ IDEA
+
+Features:
+Add New Book | Available Books | MY Books
+Update | Delete
+
+Flow Architecture:
+Client-> Controller-> Service-> Repository or DAO-> Database
+
+Dependency:
+Spring Web, Thymeleaf, Spring Data JPA, MySQL Database, Devtools
+
+Java , any version above 8
